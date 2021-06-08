@@ -1,0 +1,12 @@
+model,features_count,f1_score,features
+SVM,11,0.79604,"fixed acidity, volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,Ph,sulphates,alcohol"
+KNN,11,0.778095953,"fixed acidity, volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,Ph,sulphates,alcohol"
+Logistic regression,11,0.748938,"fixed acidity, volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,Ph,sulphates,alcohol"
+Decision Tree,11,0.737156357,"fixed acidity, volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,density,Ph,sulphates,alcohol"
+SVM,10,0.7978,"fixed acidity, volatile acidity,citric acid,residual sugar,chlorides,free sulfur dioxide,total sulfur dioxide,Ph,sulphates,alcohol"
+SVM,7,0.7589,"fixed acidity, volatile acidity, residual sugar, chlorides, free sulfur dioxide, total sulfur dioxide,pH"
+SVM,6,0.78,"fixed acidity, volatile acidity, citric acid, chlorides, sulphates, alcohol"
+SVM,4,0.785577,"alcohol,sulphates,total sulfur dioxide,volatile aciditY"
+SVM,3,0.76,"volatile acidity, sulphates, alcohol"
+SVM,3,0.7457,"fixed acidity, volatile acidity, pH"
+SVM,2,0.7835,"alcohol,sulphates"
